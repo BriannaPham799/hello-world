@@ -1,5 +1,5 @@
 # hello-world
-New repository
+
 Hi there!
 
 Nice to see you! And welcome to my world!
